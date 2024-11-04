@@ -1,8 +1,5 @@
 # Basic_Medical_Chatbot_Using_RAG
 
-
-# Medical ChatBot - RAG Based Approach
-
 This project implements a Retrieval-Augmented Generation (RAG) based medical chatbot using a single Jupyter Notebook. The chatbot aims to provide accurate and contextually relevant responses to medical queries by combining retrieval from a vector database with generative capabilities.
 
 ## Project Overview
